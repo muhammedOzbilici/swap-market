@@ -1,0 +1,9 @@
+rootProject.name = 'swap-market'
+
+include 'api-gateway-service'
+include 'discovery-service'
+include 'finance-service'
+include 'notification-service'
+include 'order-service'
+include 'product-service'
+include 'user-service'
